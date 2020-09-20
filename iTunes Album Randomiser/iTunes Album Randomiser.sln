@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTunes Album Randomiser", "iTunes Album Randomiser.csproj", "{8C5C30B4-8F64-4A21-BE52-9973A72694C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTunes Wrapper", "..\iTunes Wrapper\iTunes Wrapper.csproj", "{995B844C-05D0-4764-A8E0-15529D287D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5C30B4-8F64-4A21-BE52-9973A72694C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5C30B4-8F64-4A21-BE52-9973A72694C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5C30B4-8F64-4A21-BE52-9973A72694C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5C30B4-8F64-4A21-BE52-9973A72694C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995B844C-05D0-4764-A8E0-15529D287D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995B844C-05D0-4764-A8E0-15529D287D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995B844C-05D0-4764-A8E0-15529D287D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995B844C-05D0-4764-A8E0-15529D287D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D7DA38-30FB-46E4-AAE4-70DBDE4D3FBF}
+	EndGlobalSection
+EndGlobal
